@@ -4,8 +4,6 @@ env:
   IMAGE_NAME: student_service
   REPO_NAME: auser93
 
-
-
 jobs:
   build:
     runs-on: ubuntu-latest
